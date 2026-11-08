@@ -1,0 +1,8 @@
+{
+  "name": "zorg",
+  "version": "1.0.0",
+  "description": "Z.O.R.G multiplayer zombie survival",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
